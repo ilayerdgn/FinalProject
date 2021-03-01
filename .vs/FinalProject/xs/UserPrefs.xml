@@ -1,0 +1,87 @@
+﻿<Properties StartupConfiguration="{9CB82368-36BC-4101-941F-B5B14A132A86}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/BusinessAspects/Autofac/SecuredOperation.cs">
+    <Files>
+      <File FileName="Core/Utilities/Security/Hashing/HashingHelper.cs" Line="31" Column="13" />
+      <File FileName="Core/Utilities/Security/Encryption/SecurityKeyHelper.cs" Line="11" Column="69" />
+      <File FileName="Core/Utilities/Security/Encryption/SigningCredentialHelper.cs" Line="6" Column="36" />
+      <File FileName="Core/Utilities/Security/JWT/AccessToken.cs" Line="8" Column="1" />
+      <File FileName="Core/Utilities/Security/JWT/ITokenHelper.cs" Line="9" Column="63" />
+      <File FileName="Core/Utilities/Security/JWT/JwtHelper.cs" Line="59" Column="25" />
+      <File FileName="Core/Utilities/Security/JWT/TokenOptions.cs" Line="12" Column="1" />
+      <File FileName="Core/Extentions/ClaimExtentions.cs" Line="9" Column="19" />
+      <File FileName="Core/Extentions/EmptyClass.cs" Line="10" Column="44" />
+      <File FileName="Business/Concrete/ProductManager.cs" Line="33" Column="45" />
+      <File FileName="Business/BusinessAspects/Autofac/EmptyClass.cs" Line="20" Column="1" />
+      <File FileName="Core/Utilities/IoC/EmptyClass.cs" Line="10" Column="31" />
+      <File FileName="Business/Constants/Messages.cs" Line="19" Column="68" />
+      <File FileName="Business/Constants/DependencyResolvers/Autofac/AutofacBusinessModule.cs" Line="30" Column="15" />
+      <File FileName="DataAccess/Abstract/EmptyClass.cs" Line="13" Column="1" />
+      <File FileName="DataAccess/Concrete/EntityFramework/EmptyClass.cs" Line="6" Column="19" />
+      <File FileName="DataAccess/Concrete/EntityFramework/NorthwindContext.cs" Line="23" Column="75" />
+      <File FileName="Business/Abstract/EmptyClass.cs" Line="13" Column="1" />
+      <File FileName="Entities/DTOs/EmptyClass.cs" Line="12" Column="1" />
+      <File FileName="Business/Concrete/UserManager.cs" Line="62" Column="52" />
+      <File FileName="Business/Abstract/IAuthService.cs" Line="1" Column="1" />
+      <File FileName="WebAPI/Controllers/AuthController.cs" Line="11" Column="42" />
+      <File FileName="WebAPI/Startup.cs" Line="71" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalProject" expanded="True">
+            <Node name="Business" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="BusinessAspects" expanded="True">
+                <Node name="Autofac" expanded="True">
+                  <Node name="SecuredOperation.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Concrete" expanded="True" />
+              <Node name="Constants" expanded="True">
+                <Node name="DependencyResolvers" expanded="True">
+                  <Node name="Autofac" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="ValidationRules" expanded="True">
+                <Node name="FluentValidation" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ConsoleUI" expanded="True" />
+            <Node name="Core" expanded="True">
+              <Node name="Extentions" expanded="True" />
+              <Node name="Utilities" expanded="True">
+                <Node name="Business" expanded="True" />
+                <Node name="IoC" expanded="True" />
+                <Node name="Security" expanded="True">
+                  <Node name="Encryption" expanded="True" />
+                  <Node name="Hashing" expanded="True" />
+                  <Node name="JWT" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="DataAccess" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True">
+                <Node name="EntityFramework" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>WebAPI1/WebAPI1.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
